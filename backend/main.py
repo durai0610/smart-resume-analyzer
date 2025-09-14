@@ -25,7 +25,7 @@ app = FastAPI()
 
 origins = [
     "http://localhost:3000",
-    "https://smart-resume-analyzer-2hy6k0v62-durai0610s-projects.vercel.app"
+    "https://smart-resume-analyzer-eta.vercel.app"
 ]
 
 app.add_middleware(

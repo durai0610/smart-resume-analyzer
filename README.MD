@@ -29,7 +29,7 @@ The project is built with a **FastAPI** backend, a **React** frontend, and utili
 * **FastAPI**: A modern, high-performance web framework for building APIs with Python.
 * **PyMuPDF (fitz)**: For efficient PDF text extraction.
 * **LangChain**: To simplify interaction with the Gemini LLM.
-* **PostgreSQL** & psycopg2: A powerful relational database for storing resume data.
+* **PostgreSQL** & **psycopg2**: A powerful relational database for storing resume data.
 * **python-dotenv**: To manage environment variables.
 
 **AI & Deployment**:
