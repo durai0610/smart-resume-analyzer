@@ -1,0 +1,19 @@
+# Node.js specific ignore
+node_modules/
+dist/
+build/
+.cache/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Environment variables
+.env
+.env*.local
+.env.development
+
+# macOS-specific ignore
+.DS_Store

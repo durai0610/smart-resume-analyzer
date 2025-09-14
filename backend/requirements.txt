@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+psycopg2-binary
+pymupdf
+langchain-core
+langchain-google-genai
+python-multipart
+google-generativeai
